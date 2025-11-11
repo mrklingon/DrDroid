@@ -29,6 +29,9 @@ Well, well, well.
 >> Not  too surprising - I programmed you.
 You are a fun person - I hope you know that.
 >> It's always nice to hear.
+What do you do?
+>> Program  computers.
+Some times I make up prime numbers just for fun.
 >> quit
      _            _             
   __| | ___   ___| |_ ___  _ __ 
@@ -41,8 +44,5 @@ You are a fun person - I hope you know that.
  / _` | '__/ _ \| |/ _` |
 | (_| | | | (_) | | (_| |
  \__,_|_|  \___/|_|\__,_|
-                         
-```
-What do you do?
->> Program  computers.
-Some times I make up prime numbers just for fun.
+ ```                        
+
