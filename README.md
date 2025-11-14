@@ -4,7 +4,7 @@ VERY simple chatbot - originally for the neotrinkey and now in the FruitJam
 
 Very minimal "chat" with NO parsing. The doctor chooses between Nulls, Questions, Affirmations, Comments, and "Wisdom" (Asimov and Tolkien quotes) to converse with the subject. Silly, but shows how little it takes to create the illusion of sentience.
 
- Note: DrDroid.py will work on the neotrinkey as well, though you'll need and IDE like Mu or Thonny to run it. And delete the last line "reload()" 
+ Note: DrDroid.py will work on the neotrinkey as well, though you'll need an IDE like Mu or Thonny to run it. And delete the last line "reload()" 
 
 ```
      _            _             
