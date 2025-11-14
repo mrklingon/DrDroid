@@ -2,8 +2,9 @@
 VERY simple chatbot - originally for the neotrinkey and now in the FruitJam
 
 
-Very minimal "chat" with NO parsing. The doctor chooses between Nulls, Questions, Affirmations and Comments to converse with the subject. Silly, but shows how little it takes to create the illusion of sentience.
+Very minimal "chat" with NO parsing. The doctor chooses between Nulls, Questions, Affirmations, Comments, and "Wisdom" (Asimov and Tolkien quotes) to converse with the subject. Silly, but shows how little it takes to create the illusion of sentience.
 
+ Note: DrDroid.py will work on the neotrinkey as well, though you'll need and IDE like Mu or Thonny to run it. And delete the last line "reload()" 
 
 ```
      _            _             
@@ -21,17 +22,21 @@ Very minimal "chat" with NO parsing. The doctor chooses between Nulls, Questions
 
 
 
-Hello, what is your name? >> Joel
-Thanks for coming by, Joel!
-Where am I right now?
->> In a computer
-Well, well, well.
->> Not  too surprising - I programmed you.
-You are a fun person - I hope you know that.
->> It's always nice to hear.
-What do you do?
->> Program  computers.
-Some times I make up prime numbers just for fun.
+Hello, what is your name? >> mrklingon
+Thanks for coming by, mrklingon!
+This is a nice computer - I like it here.
+>> good to hear
+Have you heard not all those who wander are lost.
+>> Indeed
+What will tomorrow bring?
+>> I wish I knew
+You are good at typing!
+>> Thanks!
+Have you heard short cuts make long delays..
+>> sounds familiar....
+I'm getting a little tired.
+>> okay
+I'm happy you came by today.
 >> quit
      _            _             
   __| | ___   ___| |_ ___  _ __ 
@@ -44,5 +49,5 @@ Some times I make up prime numbers just for fun.
  / _` | '__/ _ \| |/ _` |
 | (_| | | | (_) | | (_| |
  \__,_|_|  \___/|_|\__,_|
- ```                        
-
+                         
+```
